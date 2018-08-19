@@ -1,0 +1,2 @@
+XYModem		KEYWORD1
+transmit	KEYWORD2
